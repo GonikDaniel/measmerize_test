@@ -83,6 +83,7 @@ The above node has a `nodeId` of "4". The `parentId` property of `"6"` instructs
 1. Your solution (that takes in the provided input and creates the expected output).
 2. Instructions to run the code.
 3. Comments throughout the code that highlights your thinking process.
+4. All this code should be in GitHub.
 
 Your solution will be tested against varying valid inputs.
 
