@@ -1,0 +1,21 @@
+{
+  "name": "measmerize_test",
+  "version": "1.0.0",
+  "description": "Measmerize test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --input='./input/nodes.json'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.measmerize.com:development-tests/software-engineering-technical-assessment.git"
+  },
+  "keywords": [],
+  "author": "Daniel Gonik <gonik.daniel88@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "1.5.2",
+    "minimist": "1.2.8"
+  }
+}

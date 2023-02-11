@@ -1,4 +1,5 @@
 .DS_Store
 Icon[\r]
 .vscode
+.idea
 node_modules
